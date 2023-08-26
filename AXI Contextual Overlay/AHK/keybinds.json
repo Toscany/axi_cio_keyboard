@@ -24,7 +24,7 @@
 		"Id": 45,
 		"Name": "Lateral Thrust Left",
 		"KB": [
-			81
+			65
 		]
 	},
 	{
@@ -38,7 +38,7 @@
 		"Id": 47,
 		"Name": "Lateral Thrust Right",
 		"KB": [
-			69
+			68
 		]
 	},
 	{
@@ -87,14 +87,14 @@
 		"Id": 123,
 		"Name": "Roll Clockwise",
 		"KB": [
-			68
+			69
 		]
 	},
 	{
 		"Id": 124,
 		"Name": "Roll Counter Clockwise",
 		"KB": [
-			65
+			81
 		]
 	},
 	{
@@ -108,7 +108,7 @@
 		"Id": 127,
 		"Name": "Boost",
 		"KB": [
-			66
+			9
 		]
 	},
 	{
