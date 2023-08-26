@@ -783,38 +783,6 @@
                "X": 29,
                "Y": 141
             }]
-      },
-      {
-         "__type": "KeyboardKey",
-         "Id": 138,
-         "Name": "F1",
-         "KeyCodes": [
-            112
-         ],
-         "Text": "",
-         "ShiftText": "",
-         "ChangeOnCaps": true,
-         "TextPosition": {
-               "X": 81,
-               "Y": 334
-            },
-         "Boundaries": [
-            {
-               "X": 27,
-               "Y": 299
-            },
-            {
-               "X": 136,
-               "Y": 299
-            },
-            {
-               "X": 136,
-               "Y": 370
-            },
-            {
-               "X": 27,
-               "Y": 370
-            }]
       }
    ]
 }
