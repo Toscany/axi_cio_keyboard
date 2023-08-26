@@ -1456,64 +1456,6 @@
           }
         }
       }
-    },
-    {
-      "Key": 138,
-      "Value": {
-        "__type": "KeyStyle",
-        "Loose": {
-          "Background": {
-            "Blue": 100,
-            "Green": 100,
-            "Red": 100
-          },
-          "BackgroundImageFileName": "F1L.png",
-          "Font": {
-            "DownloadUrl": null,
-            "FontFamily": "Courier New",
-            "Size": 20,
-            "Style": 0
-          },
-          "Outline": {
-            "Blue": 0,
-            "Green": 255,
-            "Red": 0
-          },
-          "OutlineWidth": 1,
-          "ShowOutline": false,
-          "Text": {
-            "Blue": 0,
-            "Green": 0,
-            "Red": 0
-          }
-        },
-        "Pressed": {
-          "Background": {
-            "Blue": 255,
-            "Green": 255,
-            "Red": 255
-          },
-          "BackgroundImageFileName": "F1P.png",
-          "Font": {
-            "DownloadUrl": null,
-            "FontFamily": "Courier New",
-            "Size": 20,
-            "Style": 0
-          },
-          "Outline": {
-            "Blue": 0,
-            "Green": 255,
-            "Red": 0
-          },
-          "OutlineWidth": 1,
-          "ShowOutline": false,
-          "Text": {
-            "Blue": 0,
-            "Green": 0,
-            "Red": 0
-          }
-        }
-      }
     }
   ]
 }
