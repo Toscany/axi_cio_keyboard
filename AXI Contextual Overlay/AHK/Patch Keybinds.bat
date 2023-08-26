@@ -1,0 +1,1 @@
+autohotkey.exe .\Edit_Bindings.ahk

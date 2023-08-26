@@ -1,0 +1,820 @@
+{
+   "Version":   2,
+   "Height":   555,
+   "Width":   401,
+   "Elements": [
+      {
+         "__type": "KeyboardKey",
+         "Id": 34,
+         "Name": "Vertical Thrust Down",
+         "KeyCodes": [
+            70
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": false,
+         "TextPosition": {
+               "X": 380,
+               "Y": 195
+            },
+         "Boundaries": [
+            {
+               "X": 155,
+               "Y": 268
+            },
+            {
+               "X": 252,
+               "Y": 268
+            },
+            {
+               "X": 252,
+               "Y": 331
+            },
+            {
+               "X": 155,
+               "Y": 331
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 45,
+         "Name": "Lateral Thrust Left",
+         "KeyCodes": [
+            81
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": false,
+         "TextPosition": {
+               "X": 317,
+               "Y": 108
+            },
+         "Boundaries": [
+            {
+               "X": 92,
+               "Y": 171
+            },
+            {
+               "X": 155,
+               "Y": 171
+            },
+            {
+               "X": 155,
+               "Y": 268
+            },
+            {
+               "X": 92,
+               "Y": 268
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 46,
+         "Name": "Vertical Thrust Up",
+         "KeyCodes": [
+            82
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": false,
+         "TextPosition": {
+               "X": 380,
+               "Y": 45
+            },
+         "Boundaries": [
+            {
+               "X": 155,
+               "Y": 108
+            },
+            {
+               "X": 252,
+               "Y": 108
+            },
+            {
+               "X": 252,
+               "Y": 171
+            },
+            {
+               "X": 155,
+               "Y": 171
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 47,
+         "Name": "Lateral Thrust Right",
+         "KeyCodes": [
+            69
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": false,
+         "TextPosition": {
+               "X": 477,
+               "Y": 192
+            },
+         "Boundaries": [
+            {
+               "X": 252,
+               "Y": 171
+            },
+            {
+               "X": 315,
+               "Y": 171
+            },
+            {
+               "X": 315,
+               "Y": 268
+            },
+            {
+               "X": 252,
+               "Y": 268
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 51,
+         "Name": "Thrust Forward",
+         "KeyCodes": [
+            87
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": false,
+         "TextPosition": {
+               "X": 376,
+               "Y": 84
+            },
+         "Boundaries": [
+            {
+               "X": 149,
+               "Y": 63
+            },
+            {
+               "X": 258,
+               "Y": 63
+            },
+            {
+               "X": 258,
+               "Y": 136
+            },
+            {
+               "X": 149,
+               "Y": 136
+            }]
+      },
+      {
+         "__type": "MouseSpeedIndicator",
+         "Id": 113,
+         "Radius": 51,
+         "Location": {
+               "X": 201,
+               "Y": 218
+            }
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 114,
+         "Name": "Mouse Boundary",
+         "KeyCodes": [
+          ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": false,
+         "TextPosition": {
+               "X": 202,
+               "Y": 218
+            },
+         "Boundaries": [
+            {
+               "X": 147,
+               "Y": 164
+            },
+            {
+               "X": 257,
+               "Y": 164
+            },
+            {
+               "X": 257,
+               "Y": 272
+            },
+            {
+               "X": 147,
+               "Y": 272
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 116,
+         "Name": "Yaw Left",
+         "KeyCodes": [
+          ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": false,
+         "TextPosition": {
+               "X": 300,
+               "Y": 111
+            },
+         "Boundaries": [
+            {
+               "X": 275,
+               "Y": 74
+            },
+            {
+               "X": 315,
+               "Y": 74
+            },
+            {
+               "X": 315,
+               "Y": 132
+            },
+            {
+               "X": 275,
+               "Y": 132
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 117,
+         "Name": "Yaw Right",
+         "KeyCodes": [
+          ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": false,
+         "TextPosition": {
+               "X": 339,
+               "Y": 94
+            },
+         "Boundaries": [
+            {
+               "X": 319,
+               "Y": 74
+            },
+            {
+               "X": 359,
+               "Y": 74
+            },
+            {
+               "X": 359,
+               "Y": 132
+            },
+            {
+               "X": 319,
+               "Y": 132
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 118,
+         "Name": "Pitch Down",
+         "KeyCodes": [
+            55
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": false,
+         "TextPosition": {
+               "X": 308,
+               "Y": 125
+            },
+         "Boundaries": [
+            {
+               "X": 288,
+               "Y": 105
+            },
+            {
+               "X": 346,
+               "Y": 105
+            },
+            {
+               "X": 346,
+               "Y": 145
+            },
+            {
+               "X": 288,
+               "Y": 145
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 119,
+         "Name": "Pitch Up",
+         "KeyCodes": [
+            56
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": false,
+         "TextPosition": {
+               "X": 308,
+               "Y": 81
+            },
+         "Boundaries": [
+            {
+               "X": 288,
+               "Y": 61
+            },
+            {
+               "X": 346,
+               "Y": 61
+            },
+            {
+               "X": 346,
+               "Y": 101
+            },
+            {
+               "X": 288,
+               "Y": 101
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 121,
+         "Name": "Thrust Reverse",
+         "KeyCodes": [
+            83
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": false,
+         "TextPosition": {
+               "X": 202,
+               "Y": 336
+            },
+         "Boundaries": [
+            {
+               "X": 148,
+               "Y": 302
+            },
+            {
+               "X": 257,
+               "Y": 302
+            },
+            {
+               "X": 257,
+               "Y": 375
+            },
+            {
+               "X": 148,
+               "Y": 375
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 123,
+         "Name": "Roll Clockwise",
+         "KeyCodes": [
+            68
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": true,
+         "TextPosition": {
+               "X": 203,
+               "Y": 219
+            },
+         "Boundaries": [
+            {
+               "X": 63,
+               "Y": 148
+            },
+            {
+               "X": 343,
+               "Y": 148
+            },
+            {
+               "X": 343,
+               "Y": 290
+            },
+            {
+               "X": 63,
+               "Y": 290
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 124,
+         "Name": "Roll Counter Clockwise",
+         "KeyCodes": [
+            65
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": true,
+         "TextPosition": {
+               "X": 83,
+               "Y": 168
+            },
+         "Boundaries": [
+            {
+               "X": 63,
+               "Y": 148
+            },
+            {
+               "X": 342,
+               "Y": 148
+            },
+            {
+               "X": 342,
+               "Y": 290
+            },
+            {
+               "X": 63,
+               "Y": 290
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 126,
+         "Name": "Flight Assist",
+         "KeyCodes": [
+            90
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": true,
+         "TextPosition": {
+               "X": 109,
+               "Y": 410
+            },
+         "Boundaries": [
+            {
+               "X": 25,
+               "Y": 383
+            },
+            {
+               "X": 194,
+               "Y": 383
+            },
+            {
+               "X": 194,
+               "Y": 438
+            },
+            {
+               "X": 25,
+               "Y": 438
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 127,
+         "Name": "Boost",
+         "KeyCodes": [
+            66
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": true,
+         "TextPosition": {
+               "X": 229,
+               "Y": 403
+            },
+         "Boundaries": [
+            {
+               "X": 209,
+               "Y": 383
+            },
+            {
+               "X": 380,
+               "Y": 383
+            },
+            {
+               "X": 380,
+               "Y": 438
+            },
+            {
+               "X": 209,
+               "Y": 438
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 128,
+         "Name": "Landing Gear",
+         "KeyCodes": [
+            76
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": true,
+         "TextPosition": {
+               "X": 42,
+               "Y": 475
+            },
+         "Boundaries": [
+            {
+               "X": 22,
+               "Y": 455
+            },
+            {
+               "X": 193,
+               "Y": 455
+            },
+            {
+               "X": 193,
+               "Y": 510
+            },
+            {
+               "X": 22,
+               "Y": 510
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 129,
+         "Name": "Cargo Scoop",
+         "KeyCodes": [
+            36
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": true,
+         "TextPosition": {
+               "X": 230,
+               "Y": 475
+            },
+         "Boundaries": [
+            {
+               "X": 210,
+               "Y": 455
+            },
+            {
+               "X": 381,
+               "Y": 455
+            },
+            {
+               "X": 381,
+               "Y": 510
+            },
+            {
+               "X": 210,
+               "Y": 510
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 130,
+         "Name": "Throttle Increase",
+         "KeyCodes": [
+            164,
+            87
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": true,
+         "TextPosition": {
+               "X": 49,
+               "Y": 68
+            },
+         "Boundaries": [
+            {
+               "X": 29,
+               "Y": 48
+            },
+            {
+               "X": 88,
+               "Y": 48
+            },
+            {
+               "X": 88,
+               "Y": 107
+            },
+            {
+               "X": 29,
+               "Y": 107
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 131,
+         "Name": "Throttle 75%",
+         "KeyCodes": [
+            96,
+            110,
+            101
+         ],
+         "Text": "75T",
+         "ShiftText": "",
+         "ChangeOnCaps": true,
+         "TextPosition": {
+               "X": 6,
+               "Y": 17
+            },
+         "Boundaries": [
+            {
+               "X": 28,
+               "Y": 111
+            },
+            {
+               "X": 88,
+               "Y": 111
+            },
+            {
+               "X": 88,
+               "Y": 141
+            },
+            {
+               "X": 28,
+               "Y": 141
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 132,
+         "Name": "Throttle Cancel (0%)",
+         "KeyCodes": [
+            88
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": true,
+         "TextPosition": {
+               "X": 113,
+               "Y": 131
+            },
+         "Boundaries": [
+            {
+               "X": 93,
+               "Y": 111
+            },
+            {
+               "X": 123,
+               "Y": 111
+            },
+            {
+               "X": 123,
+               "Y": 141
+            },
+            {
+               "X": 93,
+               "Y": 141
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 133,
+         "Name": "Throttle Decrease",
+         "KeyCodes": [
+            164,
+            83
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": true,
+         "TextPosition": {
+               "X": 49,
+               "Y": 165
+            },
+         "Boundaries": [
+            {
+               "X": 29,
+               "Y": 145
+            },
+            {
+               "X": 88,
+               "Y": 145
+            },
+            {
+               "X": 88,
+               "Y": 204
+            },
+            {
+               "X": 29,
+               "Y": 204
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 135,
+         "Name": "Throttle 100%",
+         "KeyCodes": [
+            96,
+            102
+         ],
+         "Text": "100T",
+         "ShiftText": "100T",
+         "ChangeOnCaps": false,
+         "TextPosition": {
+               "X": 206,
+               "Y": 131
+            },
+         "Boundaries": [
+            {
+               "X": 28,
+               "Y": 111
+            },
+            {
+               "X": 88,
+               "Y": 111
+            },
+            {
+               "X": 88,
+               "Y": 141
+            },
+            {
+               "X": 28,
+               "Y": 141
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 136,
+         "Name": "Throttle 50%",
+         "KeyCodes": [
+            96,
+            101
+         ],
+         "Text": "50T",
+         "ShiftText": "50T",
+         "ChangeOnCaps": false,
+         "TextPosition": {
+               "X": 6,
+               "Y": 17
+            },
+         "Boundaries": [
+            {
+               "X": 28,
+               "Y": 111
+            },
+            {
+               "X": 88,
+               "Y": 111
+            },
+            {
+               "X": 88,
+               "Y": 141
+            },
+            {
+               "X": 28,
+               "Y": 141
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 137,
+         "Name": "Throttle 25%",
+         "KeyCodes": [
+            96,
+            100
+         ],
+         "Text": "25T",
+         "ShiftText": "",
+         "ChangeOnCaps": true,
+         "TextPosition": {
+               "X": 0,
+               "Y": 0
+            },
+         "Boundaries": [
+            {
+               "X": 29,
+               "Y": 112
+            },
+            {
+               "X": 88,
+               "Y": 112
+            },
+            {
+               "X": 88,
+               "Y": 141
+            },
+            {
+               "X": 29,
+               "Y": 141
+            }]
+      },
+      {
+         "__type": "KeyboardKey",
+         "Id": 138,
+         "Name": "F1",
+         "KeyCodes": [
+            112
+         ],
+         "Text": "",
+         "ShiftText": "",
+         "ChangeOnCaps": true,
+         "TextPosition": {
+               "X": 81,
+               "Y": 334
+            },
+         "Boundaries": [
+            {
+               "X": 27,
+               "Y": 299
+            },
+            {
+               "X": 136,
+               "Y": 299
+            },
+            {
+               "X": 136,
+               "Y": 370
+            },
+            {
+               "X": 27,
+               "Y": 370
+            }]
+      }
+   ]
+}

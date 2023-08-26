@@ -1,0 +1,183 @@
+[
+    {
+        "Id": 113,
+        "KB": [],
+        "Name": "Mouse Speed Indicator"
+    },
+    {
+        "Id": 114,
+        "KB": [],
+        "Name": "Mouse Boundary"
+    },
+    {
+        "Id": 34,
+        "KB": [
+            70
+        ],
+        "Name": "Vertical Thrust Down"
+    },
+    {
+        "Id": 45,
+        "KB": [
+            81
+        ],
+        "Name": "Lateral Thrust Left"
+    },
+    {
+        "Id": 46,
+        "KB": [
+            82
+        ],
+        "Name": "Vertical Thrust Up"
+    },
+    {
+        "Id": 47,
+        "KB": [
+            69
+        ],
+        "Name": "Lateral Thrust Right"
+    },
+    {
+        "Id": 51,
+        "KB": [
+            87
+        ],
+        "Name": "Thrust Forward"
+    },
+    {
+        "Id": 116,
+        "KB": [],
+        "Name": "Yaw Left"
+    },
+    {
+        "Id": 117,
+        "KB": [],
+        "Name": "Yaw Right"
+    },
+    {
+        "Id": 118,
+        "KB": [
+            55
+        ],
+        "Name": "Pitch Down"
+    },
+    {
+        "Id": 119,
+        "KB": [
+            56
+        ],
+        "Name": "Pitch Up"
+    },
+    {
+        "Id": 121,
+        "KB": [
+            83
+        ],
+        "Name": "Thrust Reverse"
+    },
+    {
+        "Id": 123,
+        "KB": [
+            68
+        ],
+        "Name": "Roll Clockwise"
+    },
+    {
+        "Id": 124,
+        "KB": [
+            65
+        ],
+        "Name": "Roll Counter Clockwise"
+    },
+    {
+        "Id": 126,
+        "KB": [
+            90
+        ],
+        "Name": "Flight Assist"
+    },
+    {
+        "Id": 127,
+        "KB": [
+            66
+        ],
+        "Name": "Boost"
+    },
+    {
+        "Id": 128,
+        "KB": [
+            76
+        ],
+        "Name": "Landing Gear"
+    },
+    {
+        "Id": 129,
+        "KB": [
+            36
+        ],
+        "Name": "Cargo Scoop"
+    },
+    {
+        "Id": 130,
+        "KB": [
+            164,
+            87
+        ],
+        "Name": "Throttle Increase"
+    },
+    {
+        "Id": 131,
+        "KB": [
+            96,
+            110,
+            101
+        ],
+        "Name": "Throttle 75%"
+    },
+    {
+        "Id": 132,
+        "KB": [
+            88
+        ],
+        "Name": "Throttle Cancel (0%)"
+    },
+    {
+        "Id": 133,
+        "KB": [
+            164,
+            83
+        ],
+        "Name": "Throttle Decrease"
+    },
+    {
+        "Id": 135,
+        "KB": [
+            96,
+            102
+        ],
+        "Name": "Throttle 100%"
+    },
+    {
+        "Id": 136,
+        "KB": [
+            96,
+            101
+        ],
+        "Name": "Throttle 50%"
+    },
+    {
+        "Id": 137,
+        "KB": [
+            96,
+            100
+        ],
+        "Name": "Throttle 25%"
+    },
+    {
+        "Id": 138,
+        "KB": [
+            112
+        ],
+        "Name": "F1"
+    }
+]
