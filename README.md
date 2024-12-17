@@ -10,6 +10,7 @@ Copy the AXI Contextual Overlay folder to your NohBoard\keyboards directory
 
 If you wanted this overlay to be visible to you in game and also for easy discord streaming, then please us AHK v2 and make yourself some keybinds:
 
+```
 ; +-----------------------------------------+
 ; | 				ED.ahk 					|	
 ; +-----------------------------------------+
@@ -63,3 +64,4 @@ F3:: ; Enable NohBoard
 	WinSetStyle _WinDisabled := "-0x8000000", wID
 	WinSetExStyle _disClickthrough := "-0x20", wID
 }
+```
